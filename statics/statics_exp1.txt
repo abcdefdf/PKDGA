@@ -1,0 +1,24 @@
+khaos_lstm
+khaos_lstm: 0.21842399999999998
+auc: 0.21842399999999998
+khaos_original
+khaos_original: 0.52605
+auc: 0.52605
+kraken
+kraken: 0.9272750000000001
+auc: 0.9272750000000001
+charbot
+charbot: 0.617864
+auc: 0.617864
+gozi
+gozi: 0.243694
+auc: 0.243694
+suppobox
+suppobox: 0.327896
+auc: 0.327896
+pykspa
+pykspa: 0.930501
+auc: 0.930501
+our
+our: 0.568188
+auc: 0.568188

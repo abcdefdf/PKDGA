@@ -1,0 +1,10 @@
+ss our
+auc: 0.46947276000000004
+ss khaos_original
+auc: 0.546389365
+ss kraken
+auc: 0.32049516
+ss gozi
+auc: 0.926630315
+ss suppobox
+auc: 0.70653687

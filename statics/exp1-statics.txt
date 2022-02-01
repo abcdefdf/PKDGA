@@ -1,0 +1,15 @@
+our
+our: 0.514479
+auc: 0.514479
+khaos_original
+khaos_original: 0.528099
+auc: 0.528099
+kraken
+kraken: 0.926897
+auc: 0.926897
+gozi
+gozi: 0.24128
+auc: 0.24128
+suppobox
+suppobox: 0.326649
+auc: 0.326649
