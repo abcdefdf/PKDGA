@@ -6,13 +6,13 @@ PKDGA was tested and used on Ubuntu 16.04 and Win10 using Anaconda Python and Py
 
 # Introduction
 ## PKDGA
-generator.py: generator model.
-file_check: other functions that need to be called.
-exp1: the first experimental code in the paper
-exp2: the second experimental code in the paper
-gen_sample: generate domain names by loading the trained model.
-gen_model: train the model.
-rollout.py: policy gradient, to make the token sequence Y resist against target detector D, we maximize its expected reward.
+generator.py: generator model.  
+file_check: other functions that need to be called.  
+exp1: the first experimental code in the paper.  
+exp2: the second experimental code in the paper.  
+gen_sample: generate domain names by loading the trained model.  
+gen_model: train the model.  
+rollout.py: policy gradient, to make the token sequence Y resist against target detector D, we maximize its expected reward.  
 ## RF
 DGA detector, it extracts 21 lightweight DGA features, including structural, linguistic and statistical features, and employs a supervised model (Random Forest) for classification.
 ## bilstm,lstm,textcnn
