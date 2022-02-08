@@ -1,0 +1,40 @@
+Statics-charbot-khaos_lstm
+auc = 0.46604999999999996
+0.0 0.0681 1.0 
+0.0 0.0002 1.0 
+Statics-charbot-khaos_original
+auc = 0.5144
+0.0 0.0645 1.0 
+0.0 0.0933 1.0 
+Statics-charbot-kraken
+auc = 0.8240999999999999
+0.0 0.0672 1.0 
+0.0 0.7154 1.0 
+Statics-charbot-khaos_lstm
+auc = 0.46585
+0.0 0.0687 1.0 
+0.0 0.0004 1.0 
+Statics-charbot-khaos_original
+auc = 0.5124500000000001
+0.0 0.0675 1.0 
+0.0 0.0924 1.0 
+Statics-charbot-kraken
+auc = 0.824
+0.0 0.068 1.0 
+0.0 0.716 1.0 
+Statics-charbot-charbot
+auc = 0.5285
+0.0 0.06 1.0 
+0.0 0.117 1.0 
+Statics-charbot-gozi
+auc = 0.46564999999999995
+0.0 0.0696 1.0 
+0.0 0.0009 1.0 
+Statics-charbot-suppobox
+auc = 0.4676
+0.0 0.068 1.0 
+0.0 0.0032 1.0 
+Statics-charbot-pykspa
+auc = 0.8241999999999999
+0.0 0.066 1.0 
+0.0 0.7144 1.0 

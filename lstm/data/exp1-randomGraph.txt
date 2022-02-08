@@ -1,0 +1,16 @@
+Graph-khaos_lstm
+auc = 0.65985
+0.0 0.6803 1.0 
+0.0 1.0 1.0 
+Graph-khaos_original
+auc = 0.41685
+0.0 0.3778 1.0 
+0.0 0.2115 1.0 
+Graph-khaos_lstm
+auc = 0.65655
+0.0 0.6869 1.0 
+0.0 1.0 1.0 
+Graph-khaos_original
+auc = 0.41659999999999997
+0.0 0.3808 1.0 
+0.0 0.214 1.0 
