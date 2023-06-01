@@ -1,53 +1,65 @@
-# PKDGA
-PKDGA is an adversarial domain generation algorithm that uses a small amount of detector information for reinforcement learning training.
+# Introduction
 
+This repository contains the implementations of PDKGA and its competitors. PKDGA is an adversarial domain generation algorithm that uses partial knowledge of the target detector for reinforcement learning training. Its overall achitecture is depected as follows. 
+<p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/c289c3ee-d8d1-4061-83dd-0958e1c84fda" />
+<p>
+ 
 # Installation and Usage Hints
 PKDGA is created, trained and evaluated on Ubuntu 16.04 or Win10 using Python.
 
-# reproducibility
+# DGA Reproducibility
 ## PKDGA
-1.Create a anaconda environment:
+### Create a anaconda environment:
 
-conda create -n <environment_name> pytohn==3.6 // environment_name is the name of the created environment
+*conda create -n <environment_name> pytohn==3.6*  //**environment_name** is the name of the created environment
 
-2.Install the required packages:
+### Install the required packages:
 
-pip -r install requirement.txt
+*pip -r install requirement.txt*
 
-3.Pre-train the target domain detector
+### Pre-train the target domain detector
 
-command???
+*command???*
 
-The screenshots of pre-training process is
+The screenshots during pretraining target detector：
+<p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/6c389df8-cc9c-4b81-b755-4f007cd2863b" />
+<p>
+  
+### Training PKDGA to compromise the target detector
+*command??*
 
-![image](https://github.com/abcdefdf/PKDGA/assets/98793069/6c389df8-cc9c-4b81-b755-4f007cd2863b)
+The screenshots during training PKDGA is
 
-(4) Training PKDGA to compromise the target detector
-command??
+<p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/f00f3f3f-f3ed-4314-a7bd-72969678a1ba" />
+<p> 
 
-The screenshots of pre-training process is
+### Generate domains using PKDGA
 
-![image](https://github.com/abcdefdf/PKDGA/assets/98793069/f00f3f3f-f3ed-4314-a7bd-72969678a1ba)
+*command??*
 
-Then users can use the following command to produce domains
+Some samples are shown as follows:
+  
+samples  
+  
 
-command??
+## The usages of the rest files in *PKDGA/* are introduced as follows. 
 
-Some samples are shown as follows.
+### *rollout.py*: 
+  
+The fuction of computing policy-based gradient, which makes the token sequence Y resist against target detector D. It is called by the *generator.py* when training PKDGA.
 
-The usages of files in PKDGA/ are introduced as follows. 
+### *gen_model.py*: train the model.  exp1.py: the first experimental code in the paper.  
 
-rollout.py: policy gradient, to make the token sequence Y resisting against target detector D, we maximize its expected reward.  
+### *gen_sample.py*: generate domain names by loading the trained model.  
 
-gen_model.py: train the model.  exp1.py: the first experimental code in the paper.  
+### *exp1.py*: the first experimental code in the paper.  
 
-gen_sample.py: generate domain names by loading the trained model.  
+### *exp2.py*: the second experimental code in the paper.  
 
-exp1.py: the first experimental code in the paper.  
-
-exp2.py: the second experimental code in the paper.  
-
-file_check.py: other functions that need to be called.
+### *file_check.py8: other functions that need to be called.
 
 
 Then we present the brief introduction and usage of the evaluated domain detectors.
