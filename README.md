@@ -2,7 +2,7 @@
 PKDGA is an adversarial domain generation algorithm that uses a small amount of detector information for reinforcement learning training.
 
 # Installation and Usage Hints
-PKDGA was tested and used on Ubuntu 16.04 and Win10 using Anaconda Python and Pycharm Environments.
+PKDGA was created, trained and evaluated on Ubuntu 16.04 and Win10 using Anaconda Python and Pycharm Environments.
 
 # Introduction
 ## PKDGA
