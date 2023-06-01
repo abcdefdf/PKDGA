@@ -12,15 +12,14 @@ PKDGA is created, trained and evaluated on Ubuntu 16.04 or Win10 using Python.
 ## PKDGA
 ### Create a anaconda environment:
 
-*conda create -n <environment_name> pytohn==3.6*  //**environment_name** is the name of the created environment
+*conda create -n <environment_name> pytohn==3.7*  //**environment_name** is the name of the created environment 
 
 ### Install the required packages:
 
 *pip -r install requirement.txt*
 
 ### Pre-train the target domain detector
-
-*command???*
+ Select a target detector and train it to detect malicious domains. The detailed command for training each detector will be shown in the **Detector Reproducibilition** part.
 
 The screenshots during pretraining target detector：
 <p align="center">
