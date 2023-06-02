@@ -1,9 +1,11 @@
 # Introduction
 
 This repository contains the implementations of PDKGA and its competitors. PKDGA is an adversarial domain generation algorithm that uses partial knowledge of the target detector for reinforcement learning training. Its overall achitecture is depected as follows. 
+
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/c289c3ee-d8d1-4061-83dd-0958e1c84fda" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/b6c50a2a-488d-4901-a42e-98896384d29e" />
 <p>
+
 
 # Installation and Usage Hints
 PKDGA is created, trained and evaluated on Ubuntu 16.04 or Win10 using Python.
@@ -95,7 +97,7 @@ The fuction of computing policy-based gradient, which makes the token sequence Y
  
  
  <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/4f0729ea-6580-4e0d-ad28-f423a7ec7339"/>
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/4f0729ea-6580-4e0d-ad28-f423a7ec7339"  width="500px"/>
 <p> 
 
  
@@ -106,8 +108,9 @@ The fuction of computing policy-based gradient, which makes the token sequence Y
 The experimental code of measuring training sets' impacts on PKDGA, the results are shown as follows: 
  
   <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/8d622f7a-6644-4b65-9738-2c4adf6e4478" width="100px"/>
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/8d622f7a-6644-4b65-9738-2c4adf6e4478" width="800px"/>
 <p> 
+
 
 
 ## khaos
