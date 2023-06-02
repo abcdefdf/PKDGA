@@ -4,7 +4,7 @@ This repository contains the implementations of PDKGA and its competitors. PKDGA
 <p align="center">
  <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/c289c3ee-d8d1-4061-83dd-0958e1c84fda" />
 <p>
- 
+
 # Installation and Usage Hints
 PKDGA is created, trained and evaluated on Ubuntu 16.04 or Win10 using Python.
 
@@ -27,8 +27,6 @@ The screenshots during pretraining target detector：
 <p>
   
 ### Training PKDGA to compromise the target detector
- 
- [Architecture (2).pdf](https://github.com/abcdefdf/PKDGA/files/11631189/Architecture.2.pdf)
 
 python pkdga/gen_model.py
 
