@@ -124,7 +124,7 @@ DGA, builds a dictionary containing n-grams of legitimate domain names and train
  *python khaos/gan_language.py*
 
 # Detector Reproducibility
-## FANCI[2]
+## FANCI [2]
  
 ### Introduction: 
 
