@@ -133,7 +133,7 @@ DGA, builds a dictionary containing n-grams of legitimate domain names and train
 
  *python RF/RF_classifier.py*
 
-## bilstm,lstm,textcnn [3]
+## NN detectors [3]
 ### Introduction: 
  DGA detector, directly leverage neural networks to distinguish AGDs from benign ones without extracting features manually.
 
