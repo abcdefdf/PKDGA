@@ -95,7 +95,7 @@ The fuction of computing policy-based gradient, which makes the token sequence Y
  
  
  <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/4f0729ea-6580-4e0d-ad28-f423a7ec7339" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/4f0729ea-6580-4e0d-ad28-f423a7ec7339"/>
 <p> 
 
  
@@ -106,7 +106,7 @@ The fuction of computing policy-based gradient, which makes the token sequence Y
 The experimental code of measuring training sets' impacts on PKDGA, the results are shown as follows: 
  
   <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/8d622f7a-6644-4b65-9738-2c4adf6e4478" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/8d622f7a-6644-4b65-9738-2c4adf6e4478" width="100px"/>
 <p> 
 
 
