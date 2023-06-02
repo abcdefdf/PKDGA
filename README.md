@@ -113,7 +113,7 @@ The experimental code of measuring training sets' impacts on PKDGA, the results 
 
 
 
-## khaos
+## khaos khaos[1]
 
 ### Introduction: 
 
@@ -163,3 +163,8 @@ DGA detector, argues that AGDs follow different distributions from the legitimat
  
 # Disclaimer
 This project is still under development and may be missing at the moment. In addition, some paths may require you to modify.
+ 
+# Reference
+ [1] X. Yun, J. Huang, Y. Wang, T. Zang, Y. Zhou, and Y. Zhang, “Khaos: An adversarial neural network dga with high anti-detection ability,” IEEE
+Trans. Inf. Forensics Secur., vol. 15, no. 1, pp. 2225–2240, 2020.
+ 
