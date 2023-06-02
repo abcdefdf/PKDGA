@@ -28,7 +28,7 @@ The screenshots during pretraining target detector：
   
 ### Training PKDGA to compromise the target detector
 
-python pkdga/gen_model.py
+*python pkdga/gen_model.py*
 
 The screenshots during training PKDGA is
 
@@ -38,7 +38,7 @@ The screenshots during training PKDGA is
 
 ### Generate domains using PKDGA
 
-*ython gen_sample.py*
+*python gen_sample.py*
 
 Some samples(2rd-level domains only) are shown as follows:
   
@@ -116,7 +116,7 @@ DGA, builds a dictionary containing n-grams of legitimate domain names and train
  DGA detector, it extracts 21 lightweight DGA features, including structural, linguistic and statistical features, and employs a supervised model (Random Forest) for classification.
 ###Usage: 
 
- *Python RF/RF_classifier.py*
+ *python RF/RF_classifier.py*
 
 ## bilstm,lstm,textcnn
 ### Introduction: 
