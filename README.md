@@ -91,13 +91,25 @@ Some samples(2rd-level domains only) are shown as follows:
 The fuction of computing policy-based gradient, which makes the token sequence Y resist against target detector D. It is called by the *gen_model.py* when training PKDGA.
 
 ### exp1.py:
- The experimental code of measuring DGAs' evasoin ability (the results in TABLE IV)
+ The experimental code of measuring DGAs' evasoin ability, the results are shows as follows:
+ 
+ 
+ <p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/4f0729ea-6580-4e0d-ad28-f423a7ec7339" />
+<p> 
+
+ 
+ 
 
 ### exp2.py: 
  
-The experimental code of measuring training sets' impacts on PKDGA (the results in Fig.9).  
-
+The experimental code of measuring training sets' impacts on PKDGA, the results are shown as follows: 
  
+  <p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/8d622f7a-6644-4b65-9738-2c4adf6e4478" />
+<p> 
+
+
 ## khaos
 
 ### Introduction: 
