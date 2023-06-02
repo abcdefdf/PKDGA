@@ -142,11 +142,11 @@ DGA, builds a dictionary containing n-grams of legitimate domain names and train
 
 ### Usage:
  
-*python lstm/lstm_class.py -layer -emb -hid -device* // **layer** is the layer number of the network, **emb** is the embedding size, **hid** is the size of hidden layer.
+*python NN detector/lstm/lstm_class.py -layer -emb -hid -device* // **layer** is the layer number of the network, **emb** is the embedding size, **hid** is the size of hidden layer.
  
-*python textcnn/cnn.py*  -device
+*python NN detector/textcnn/cnn.py*  -device
  
-*python bilstm/bilstm.py -max_features - maxlen -device*  // **maxlen** is the maximal length of domain names.
+*python NN detector/bilstm/bilstm.py -max_features - maxlen -device*  // **maxlen** is the maximal length of domain names.
  
 ## graph [4]
 ### Introduction: 
