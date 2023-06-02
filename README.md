@@ -113,7 +113,7 @@ The experimental code of measuring training sets' impacts on PKDGA, the results 
 
 
 
-## khaos khaos[1]
+## khaos [1]
 
 ### Introduction: 
 
