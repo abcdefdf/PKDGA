@@ -42,7 +42,7 @@ The screenshots during training PKDGA is
 
 *python gen_sample.py*
 
-Some samples(2rd-level domains only) are shown as follows:
+Some samples (2rd-level domains only) are shown as follows:
   
 <streflix\>
 <notgichtirnax\>
