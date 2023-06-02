@@ -86,6 +86,9 @@ Some samples (2rd-level domains only) are shown as follows:
 <svvertenexvedes\>
 <gastrafro\>
 
+If uses want to try to generate domain without training model, there is trained model (domain generator) avaliable in models/.
+
+ 
 ## The usages of the rest files in *pkdga/* are introduced as follows. 
 
 ### rollout.py: 
