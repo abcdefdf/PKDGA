@@ -86,7 +86,7 @@ Some samples (2rd-level domains only) are shown as follows:
 <svvertenexvedes\>
 <gastrafro\>
 
-## The usages of the rest files in *PKDGA/* are introduced as follows. 
+## The usages of the rest files in *pkdga/* are introduced as follows. 
 
 ### rollout.py: 
   
