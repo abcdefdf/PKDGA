@@ -27,6 +27,9 @@ The screenshots during pretraining target detector：
 <p>
   
 ### Training PKDGA to compromise the target detector
+ 
+ [Architecture (2).pdf](https://github.com/abcdefdf/PKDGA/files/11631189/Architecture.2.pdf)
+
 python pkdga/gen_model.py
 
 The screenshots during training PKDGA is
