@@ -1,1 +1,0 @@
-This dirrection contians trained models of PKDGA. In particular, *detector_LSTM.trc* is the AGD detector implemented in LSTM architecture and *generator.trc* is the trained domain generator of PKDGA, which can be utilzed to produce domains dirrectly witou model training processes.
