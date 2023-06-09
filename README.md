@@ -48,9 +48,9 @@ python pkdga/gen_model.py
 The screenshot during training PKDGA is
 
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/f00f3f3f-f3ed-4314-a7bd-72969678a1ba" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/9b5de92f-a8d3-4b35-a880-eddd28a8afdc" width="650px"/>
 <p> 
-
+ 
 ### Generate domains using PKDGA
  
 ```bash
