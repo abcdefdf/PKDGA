@@ -3,7 +3,7 @@
 This repository contains the implementations of PDKGA and its competitors. PKDGA is an adversarial domain generation algorithm that uses partial knowledge of the target detector for reinforcement learning training. Its overall achitecture is depected as follows. 
 
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/b6c50a2a-488d-4901-a42e-98896384d29e" width="600px" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/b6c50a2a-488d-4901-a42e-98896384d29e" width="650px" />
 <p>
 
 
