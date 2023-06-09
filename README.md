@@ -28,7 +28,14 @@ conda create -n <environment_name> pytohn==3.7
 ### Pre-train the target domain detector
  Select a target detector and train it to detect malicious domains. The detailed command for training each detector will be shown in the **Detector Reproducibilition** part.
 
-The screenshots during pretraining target detector：
+ The screenshot of starting PKDGA：
+<p align="center">
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/6c389df8-cc9c-4b81-b755-4f007cd2863b" />
+<p>
+ 
+ 
+ 
+The screenshot during pretraining target detector：
 <p align="center">
  <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/6c389df8-cc9c-4b81-b755-4f007cd2863b" />
 <p>
@@ -39,7 +46,7 @@ The screenshots during pretraining target detector：
 python pkdga/gen_model.py
 ```
 
-The screenshots during training PKDGA is
+The screenshot during training PKDGA is
 
 <p align="center">
  <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/f00f3f3f-f3ed-4314-a7bd-72969678a1ba" />
