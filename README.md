@@ -30,15 +30,15 @@ conda create -n <environment_name> pytohn==3.7
 
  The screenshot of starting PKDGA：
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/36e545da-6158-42f9-998b-3e8534fc6754"  width="720px"/>
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/36e545da-6158-42f9-998b-3e8534fc6754"  width="650px"/>
 <p>
 
 
 The screenshot during pretraining target detector：
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/6c389df8-cc9c-4b81-b755-4f007cd2863b" />
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/58fe776e-1316-411d-acca-08581d33730b" width="650px"/>
 <p>
-  
+
 ### Training PKDGA to compromise the target detector
 
 ```bash
