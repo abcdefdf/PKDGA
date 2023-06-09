@@ -30,7 +30,7 @@ conda create -n <environment_name> pytohn==3.7
 
  The screenshot of starting PKDGA：
 <p align="center">
- <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/36e545da-6158-42f9-998b-3e8534fc6754"  width="750px"/>
+ <img src="https://github.com/abcdefdf/PKDGA/assets/98793069/36e545da-6158-42f9-998b-3e8534fc6754"  width="720px"/>
 <p>
 
 
